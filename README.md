@@ -1,6 +1,6 @@
 👕👚👖🩲🩳👔👗👙🩱👘🥻 
 
-<h2>dacon fashionMnist</h2>
+<h2>dacon fashion Mnist</h2>
 
 @haaaein
 
