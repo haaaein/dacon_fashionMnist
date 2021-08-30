@@ -1,2 +1,6 @@
-# dacon_fashionMnist
-dacon fashion mnist
+👕👚👖🩲🩳👔👗👙🩱👘🥻 
+
+dacon_fashionMnist
+
+@haaaein
+@yeclairer
